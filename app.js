@@ -1,2 +1,3 @@
-console.log("hola mundo");
-let variable;
+function getComputerChoice(){
+    
+}
