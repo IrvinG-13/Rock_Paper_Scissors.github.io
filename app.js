@@ -85,7 +85,7 @@ if(contadorC === 5){
     computerScore.innerHTML = 0
     contadorC = 0
     contadorP = 0
-    resultElement.textContent = 'YOU LOSE! :(';
+    resultElement.textContent = 'DEFEAT!';
 }
 
 if(contadorP === 5){
@@ -93,7 +93,7 @@ if(contadorP === 5){
     computerScore.innerHTML = 0
     contadorC = 0
     contadorP = 0
-    resultElement.textContent = 'YOU WIN! : )';
+    resultElement.textContent = 'VICTORY!';
 }
 };
 
